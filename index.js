@@ -1,0 +1,1 @@
+console.log("hello world this is a demo java script file in git dir");
